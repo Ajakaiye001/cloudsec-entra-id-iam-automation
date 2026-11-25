@@ -1,0 +1,13 @@
+# Secrets
+.env
+*.pfx
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Runtime output (contains object IDs and tenant details)
+execution_log.txt

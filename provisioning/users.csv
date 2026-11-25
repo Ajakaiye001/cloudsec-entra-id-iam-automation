@@ -1,0 +1,101 @@
+displayName,givenName,surname,userPrincipalName,department,jobTitle,managerUPN,usageLocation
+Nosipho October,Nosipho,October,nosipho.october@contoso.onmicrosoft.com,Finance,Head of Finance,,ZA
+Andre Tshabalala,Andre,Tshabalala,andre.tshabalala@contoso.onmicrosoft.com,Finance,Cost Accountant,nosipho.october@contoso.onmicrosoft.com,ZA
+Ayanda Jacobs,Ayanda,Jacobs,ayanda.jacobs@contoso.onmicrosoft.com,Finance,Cost Accountant,nosipho.october@contoso.onmicrosoft.com,ZA
+Buhle Govender,Buhle,Govender,buhle.govender@contoso.onmicrosoft.com,Finance,Financial Controller,nosipho.october@contoso.onmicrosoft.com,ZA
+Buhle Van der Merwe,Buhle,Van der Merwe,buhle.vandermerwe@contoso.onmicrosoft.com,Finance,Finance Officer,nosipho.october@contoso.onmicrosoft.com,ZA
+Caitlin Ngcobo,Caitlin,Ngcobo,caitlin.ngcobo@contoso.onmicrosoft.com,Finance,Accounts Receivable Clerk,nosipho.october@contoso.onmicrosoft.com,ZA
+Chloe Moodley,Chloe,Moodley,chloe.moodley@contoso.onmicrosoft.com,Finance,Management Accountant,nosipho.october@contoso.onmicrosoft.com,ZA
+Lungile Mnguni,Lungile,Mnguni,lungile.mnguni@contoso.onmicrosoft.com,Finance,Financial Controller,nosipho.october@contoso.onmicrosoft.com,ZA
+Megan Hadebe,Megan,Hadebe,megan.hadebe@contoso.onmicrosoft.com,Finance,Finance Business Partner,nosipho.october@contoso.onmicrosoft.com,ZA
+Naledi Ngwenya,Naledi,Ngwenya,naledi.ngwenya@contoso.onmicrosoft.com,Finance,Management Accountant,nosipho.october@contoso.onmicrosoft.com,ZA
+Nkosana October,Nkosana,October,nkosana.october@contoso.onmicrosoft.com,Finance,Bookkeeper,nosipho.october@contoso.onmicrosoft.com,ZA
+Nkululeko Nene,Nkululeko,Nene,nkululeko.nene@contoso.onmicrosoft.com,Finance,Bookkeeper,nosipho.october@contoso.onmicrosoft.com,ZA
+Ntando Le Roux,Ntando,Le Roux,ntando.leroux@contoso.onmicrosoft.com,Finance,Financial Analyst,nosipho.october@contoso.onmicrosoft.com,ZA
+Sizwe Booysen,Sizwe,Booysen,sizwe.booysen@contoso.onmicrosoft.com,Finance,Credit Analyst,nosipho.october@contoso.onmicrosoft.com,ZA
+Sphesihle Adams,Sphesihle,Adams,sphesihle.adams@contoso.onmicrosoft.com,Finance,Management Accountant,nosipho.october@contoso.onmicrosoft.com,ZA
+Themba Van der Merwe,Themba,Van der Merwe,themba.vandermerwe@contoso.onmicrosoft.com,Finance,Payroll Administrator,nosipho.october@contoso.onmicrosoft.com,ZA
+Vusi Mkhize,Vusi,Mkhize,vusi.mkhize@contoso.onmicrosoft.com,Finance,Treasury Analyst,nosipho.october@contoso.onmicrosoft.com,ZA
+Willem Arendse,Willem,Arendse,willem.arendse@contoso.onmicrosoft.com,Finance,Accountant,nosipho.october@contoso.onmicrosoft.com,ZA
+Zanele Joubert,Zanele,Joubert,zanele.joubert@contoso.onmicrosoft.com,Finance,Financial Controller,nosipho.october@contoso.onmicrosoft.com,ZA
+Zanele September,Zanele,September,zanele.september@contoso.onmicrosoft.com,Finance,Cost Accountant,nosipho.october@contoso.onmicrosoft.com,ZA
+Sashin Mokoena,Sashin,Mokoena,sashin.mokoena@contoso.onmicrosoft.com,Human Resources,Head of Human Resources,,ZA
+Ashleigh Mkhize,Ashleigh,Mkhize,ashleigh.mkhize@contoso.onmicrosoft.com,Human Resources,HR Officer,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Bheki Mthembu,Bheki,Mthembu,bheki.mthembu@contoso.onmicrosoft.com,Human Resources,Recruitment Specialist,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Bongani Vermeulen,Bongani,Vermeulen,bongani.vermeulen@contoso.onmicrosoft.com,Human Resources,Learning & Development Officer,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Christo Madonsela,Christo,Madonsela,christo.madonsela@contoso.onmicrosoft.com,Human Resources,HR Officer,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Hlengiwe Venter,Hlengiwe,Venter,hlengiwe.venter@contoso.onmicrosoft.com,Human Resources,Employee Relations Officer,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Lungile Adams,Lungile,Adams,lungile.adams@contoso.onmicrosoft.com,Human Resources,HR Administrator,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Mandla Hendricks,Mandla,Hendricks,mandla.hendricks@contoso.onmicrosoft.com,Human Resources,Recruitment Specialist,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Ntando Jacobs,Ntando,Jacobs,ntando.jacobs@contoso.onmicrosoft.com,Human Resources,Compensation & Benefits Analyst,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Olwethu Zulu,Olwethu,Zulu,olwethu.zulu@contoso.onmicrosoft.com,Human Resources,Payroll Specialist,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Sibusiso Maseko,Sibusiso,Maseko,sibusiso.maseko@contoso.onmicrosoft.com,Human Resources,HR Business Partner,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Thandi Mabaso,Thandi,Mabaso,thandi.mabaso@contoso.onmicrosoft.com,Human Resources,HR Officer,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Vusi Adams,Vusi,Adams,vusi.adams@contoso.onmicrosoft.com,Human Resources,Compensation & Benefits Analyst,sashin.mokoena@contoso.onmicrosoft.com,ZA
+Brandon Smit,Brandon,Smit,brandon.smit@contoso.onmicrosoft.com,Operations,Head of Operations,,ZA
+Andile Du Toit,Andile,Du Toit,andile.dutoit@contoso.onmicrosoft.com,Operations,Operations Administrator,brandon.smit@contoso.onmicrosoft.com,ZA
+Andre Khoza,Andre,Khoza,andre.khoza@contoso.onmicrosoft.com,Operations,Process Analyst,brandon.smit@contoso.onmicrosoft.com,ZA
+Christo Chetty,Christo,Chetty,christo.chetty@contoso.onmicrosoft.com,Operations,Process Analyst,brandon.smit@contoso.onmicrosoft.com,ZA
+Christo Jacobs,Christo,Jacobs,christo.jacobs@contoso.onmicrosoft.com,Operations,Branch Operations Lead,brandon.smit@contoso.onmicrosoft.com,ZA
+Dumisani September,Dumisani,September,dumisani.september@contoso.onmicrosoft.com,Operations,Logistics Coordinator,brandon.smit@contoso.onmicrosoft.com,ZA
+Francois Langa,Francois,Langa,francois.langa@contoso.onmicrosoft.com,Operations,Business Analyst,brandon.smit@contoso.onmicrosoft.com,ZA
+Hlengiwe Hadebe,Hlengiwe,Hadebe,hlengiwe.hadebe@contoso.onmicrosoft.com,Operations,Service Delivery Officer,brandon.smit@contoso.onmicrosoft.com,ZA
+Kagiso Maseko,Kagiso,Maseko,kagiso.maseko@contoso.onmicrosoft.com,Operations,Logistics Coordinator,brandon.smit@contoso.onmicrosoft.com,ZA
+Kagiso October,Kagiso,October,kagiso.october@contoso.onmicrosoft.com,Operations,Service Delivery Officer,brandon.smit@contoso.onmicrosoft.com,ZA
+Lwazi Chetty,Lwazi,Chetty,lwazi.chetty@contoso.onmicrosoft.com,Operations,Process Analyst,brandon.smit@contoso.onmicrosoft.com,ZA
+Marius Zulu,Marius,Zulu,marius.zulu@contoso.onmicrosoft.com,Operations,Branch Operations Lead,brandon.smit@contoso.onmicrosoft.com,ZA
+Marlize Radebe,Marlize,Radebe,marlize.radebe@contoso.onmicrosoft.com,Operations,Service Delivery Officer,brandon.smit@contoso.onmicrosoft.com,ZA
+Phila Jacobs,Phila,Jacobs,phila.jacobs@contoso.onmicrosoft.com,Operations,Business Analyst,brandon.smit@contoso.onmicrosoft.com,ZA
+Phumzile Moodley,Phumzile,Moodley,phumzile.moodley@contoso.onmicrosoft.com,Operations,Logistics Coordinator,brandon.smit@contoso.onmicrosoft.com,ZA
+Reshan Sibiya,Reshan,Sibiya,reshan.sibiya@contoso.onmicrosoft.com,Operations,Operations Administrator,brandon.smit@contoso.onmicrosoft.com,ZA
+Sanet Moodley,Sanet,Moodley,sanet.moodley@contoso.onmicrosoft.com,Operations,Client Operations Officer,brandon.smit@contoso.onmicrosoft.com,ZA
+Sipho Buthelezi,Sipho,Buthelezi,sipho.buthelezi@contoso.onmicrosoft.com,Operations,Operations Analyst,brandon.smit@contoso.onmicrosoft.com,ZA
+Sizwe Padayachee,Sizwe,Padayachee,sizwe.padayachee@contoso.onmicrosoft.com,Operations,Service Delivery Officer,brandon.smit@contoso.onmicrosoft.com,ZA
+Sphesihle Naicker,Sphesihle,Naicker,sphesihle.naicker@contoso.onmicrosoft.com,Operations,Operations Officer,brandon.smit@contoso.onmicrosoft.com,ZA
+Thandi Oosthuizen,Thandi,Oosthuizen,thandi.oosthuizen@contoso.onmicrosoft.com,Operations,Operations Officer,brandon.smit@contoso.onmicrosoft.com,ZA
+Themba Govender,Themba,Govender,themba.govender@contoso.onmicrosoft.com,Operations,Operations Analyst,brandon.smit@contoso.onmicrosoft.com,ZA
+Vusi Mabaso,Vusi,Mabaso,vusi.mabaso@contoso.onmicrosoft.com,Operations,Operations Analyst,brandon.smit@contoso.onmicrosoft.com,ZA
+Vusi Madonsela,Vusi,Madonsela,vusi.madonsela@contoso.onmicrosoft.com,Operations,Quality Assurance Officer,brandon.smit@contoso.onmicrosoft.com,ZA
+Willem Maseko,Willem,Maseko,willem.maseko@contoso.onmicrosoft.com,Operations,Operations Coordinator,brandon.smit@contoso.onmicrosoft.com,ZA
+Yuvania Khumalo,Yuvania,Khumalo,yuvania.khumalo@contoso.onmicrosoft.com,Information Technology,Head of Information Technology,,ZA
+Anusha Booysen,Anusha,Booysen,anusha.booysen@contoso.onmicrosoft.com,Information Technology,Application Support Analyst,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Brandon Mthembu,Brandon,Mthembu,brandon.mthembu@contoso.onmicrosoft.com,Information Technology,IT Support Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Caitlin Botha,Caitlin,Botha,caitlin.botha@contoso.onmicrosoft.com,Information Technology,Software Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Jordan Mahlangu,Jordan,Mahlangu,jordan.mahlangu@contoso.onmicrosoft.com,Information Technology,Application Support Analyst,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Jordan Williams,Jordan,Williams,jordan.williams@contoso.onmicrosoft.com,Information Technology,Cloud Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Katlego Mthembu,Katlego,Mthembu,katlego.mthembu@contoso.onmicrosoft.com,Information Technology,Database Administrator,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Kayla Ngcobo,Kayla,Ngcobo,kayla.ngcobo@contoso.onmicrosoft.com,Information Technology,Database Administrator,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Kreson Ngcobo,Kreson,Ngcobo,kreson.ngcobo@contoso.onmicrosoft.com,Information Technology,Cloud Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Marius Tshabalala,Marius,Tshabalala,marius.tshabalala@contoso.onmicrosoft.com,Information Technology,Infrastructure Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Nosipho Zulu,Nosipho,Zulu,nosipho.zulu@contoso.onmicrosoft.com,Information Technology,Application Support Analyst,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Pieter Nel,Pieter,Nel,pieter.nel@contoso.onmicrosoft.com,Information Technology,Platform Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Sandile Van Wyk,Sandile,Van Wyk,sandile.vanwyk@contoso.onmicrosoft.com,Information Technology,IT Project Coordinator,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Sibongile Sibiya,Sibongile,Sibiya,sibongile.sibiya@contoso.onmicrosoft.com,Information Technology,Infrastructure Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Themba October,Themba,October,themba.october@contoso.onmicrosoft.com,Information Technology,Cloud Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Themba Sithole,Themba,Sithole,themba.sithole@contoso.onmicrosoft.com,Information Technology,IT Project Coordinator,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Themba Van Wyk,Themba,Van Wyk,themba.vanwyk@contoso.onmicrosoft.com,Information Technology,DevOps Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Thulani Van der Merwe,Thulani,Van der Merwe,thulani.vandermerwe@contoso.onmicrosoft.com,Information Technology,Cloud Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Tshepo Madonsela,Tshepo,Madonsela,tshepo.madonsela@contoso.onmicrosoft.com,Information Technology,Site Reliability Engineer,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Wynand Arendse,Wynand,Arendse,wynand.arendse@contoso.onmicrosoft.com,Information Technology,Application Support Analyst,yuvania.khumalo@contoso.onmicrosoft.com,ZA
+Thabo Swanepoel,Thabo,Swanepoel,thabo.swanepoel@contoso.onmicrosoft.com,Security,Head of Security (CISO),,ZA
+Chloe Mahomed,Chloe,Mahomed,chloe.mahomed@contoso.onmicrosoft.com,Security,Identity & Access Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Hendrik Mthembu,Hendrik,Mthembu,hendrik.mthembu@contoso.onmicrosoft.com,Security,Threat Intelligence Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Hlengiwe Nel,Hlengiwe,Nel,hlengiwe.nel@contoso.onmicrosoft.com,Security,Security Operations Lead,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Mandla Dlamini,Mandla,Dlamini,mandla.dlamini@contoso.onmicrosoft.com,Security,Security Operations Lead,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Mandla September,Mandla,September,mandla.september@contoso.onmicrosoft.com,Security,Vulnerability Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Megan Cele,Megan,Cele,megan.cele@contoso.onmicrosoft.com,Security,Threat Intelligence Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Mpho Nel,Mpho,Nel,mpho.nel@contoso.onmicrosoft.com,Security,SOC Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Mxolisi Booysen,Mxolisi,Booysen,mxolisi.booysen@contoso.onmicrosoft.com,Security,GRC Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Nkosana Petersen,Nkosana,Petersen,nkosana.petersen@contoso.onmicrosoft.com,Security,SOC Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Nonhlanhla Kruger,Nonhlanhla,Kruger,nonhlanhla.kruger@contoso.onmicrosoft.com,Security,Vulnerability Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Ntando Fourie,Ntando,Fourie,ntando.fourie@contoso.onmicrosoft.com,Security,GRC Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Phumzile Gumede,Phumzile,Gumede,phumzile.gumede@contoso.onmicrosoft.com,Security,Detection Engineer,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Ruan Maseko,Ruan,Maseko,ruan.maseko@contoso.onmicrosoft.com,Security,Security Engineer,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Ruan Van Wyk,Ruan,Van Wyk,ruan.vanwyk@contoso.onmicrosoft.com,Security,Incident Response Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Sipho Fourie,Sipho,Fourie,sipho.fourie@contoso.onmicrosoft.com,Security,Threat Intelligence Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Sizwe Mnguni,Sizwe,Mnguni,sizwe.mnguni@contoso.onmicrosoft.com,Security,Detection Engineer,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Sphesihle Radebe,Sphesihle,Radebe,sphesihle.radebe@contoso.onmicrosoft.com,Security,Threat Intelligence Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Stefan Mnguni,Stefan,Mnguni,stefan.mnguni@contoso.onmicrosoft.com,Security,Threat Intelligence Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Thabo Radebe,Thabo,Radebe,thabo.radebe@contoso.onmicrosoft.com,Security,Security Awareness Officer,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Vusi Le Roux,Vusi,Le Roux,vusi.leroux@contoso.onmicrosoft.com,Security,Threat Intelligence Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
+Willem October,Willem,October,willem.october@contoso.onmicrosoft.com,Security,Identity & Access Analyst,thabo.swanepoel@contoso.onmicrosoft.com,ZA
